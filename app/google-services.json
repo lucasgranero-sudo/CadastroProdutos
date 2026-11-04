@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92109819714",
+    "project_id": "cadastroprodutos-c842e",
+    "storage_bucket": "cadastroprodutos-c842e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92109819714:android:4aba5780350583bbbbc2db",
+        "android_client_info": {
+          "package_name": "br.unisanta.produtos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGR38g3fOPbZrXxOWPIetJEyz8EQHldwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
